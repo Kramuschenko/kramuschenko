@@ -9,7 +9,7 @@
 - 🥅 I am constantly learning new things
 - 🏀 I like play Basketball 
 
-### Connect with me:
+### Contact with me:
 
 
 
