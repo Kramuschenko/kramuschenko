@@ -5,7 +5,7 @@
 ## I'm a BackEnd Java Junior Developer
 
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I admire to paint and play the guitar
 - 🥅 I am constantly learning new things
 - 🏀 I like play Basketball 
 
