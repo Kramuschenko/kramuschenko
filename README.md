@@ -2,7 +2,7 @@
 
 
 
-## I'm a BackEnd Java Junior Developer
+## I'm a BackEnd Java Developer
 
 - 💪 I like to write code
 - 🎉 I admire to paint and play the guitar
