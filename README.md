@@ -2,7 +2,7 @@
 
 
 
-## I'm a BackEnd Java Developer
+## I'm a BackEnd Java Developer in Bosch
 
 - 💪 I like to write code
 - 🎉 I admire to paint and play the guitar
